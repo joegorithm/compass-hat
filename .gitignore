@@ -1,0 +1,16 @@
+# Arduino build outputs
+*.hex
+*.elf
+*.bin
+*.map
+
+# Arduino 2.x generated files
+*.ino.cpp
+*.ino.d
+*.ino.elf
+*.ino.hex
+*.ino.map
+build/
+
+# macOS Finder junk
+.DS_Store
